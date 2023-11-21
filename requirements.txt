@@ -1,0 +1,6 @@
+python
+flask
+flaskwt
+wt-forms
+flask-sqlalchemy
+flask-login
