@@ -4,3 +4,4 @@ flaskwt
 wt-forms
 flask-sqlalchemy
 flask-login
+gunicorn
